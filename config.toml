@@ -1,0 +1,4 @@
+baseURL = "https://welcomewalmartcards22.vercel.app"
+languageCode = "en-us"
+title = "Walmart Cards Online"
+theme = "tale-hugo-master"
